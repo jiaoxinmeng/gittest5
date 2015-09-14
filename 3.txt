@@ -3,3 +3,6 @@ hello world
 hi
 add in master
 add in brach1
+
+save stash
+
