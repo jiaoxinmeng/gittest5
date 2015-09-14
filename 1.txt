@@ -1,7 +1,0 @@
-hi
-<<<<<<< HEAD
- hi pengyihui 
-jiasdaid
-=======
-
->>>>>>> branch1
